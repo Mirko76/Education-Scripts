@@ -5,7 +5,6 @@
 # Define the IP Range 192.168.254
 # For example: sudo netdiscover -i enp0s3
 
-
 # Define the network range to scan (change this to match your network)
 network="192.168.254"
 output_file="active_devices.txt"
